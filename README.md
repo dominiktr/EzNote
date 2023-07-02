@@ -1,5 +1,5 @@
 # EzNote
- Android note-taking app
+ An Android application for note-taking that saves data to a SQLite database.
 
 
 <img src="https://user-images.githubusercontent.com/107572642/173939873-1ac49fe9-3cb0-4631-ae8e-ab4da6157a38.png" height="700"><br>
